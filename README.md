@@ -116,19 +116,19 @@ Insights and Decision-Making:
 
 ## Conclusion
 The analysis from the Electric Vehicle Market Dashboard Suite reveals critical insights into the EV ecosystem, encompassing sales performance, charging infrastructure, and incentive-driven growth.
-1.	Sales Performance:
-   <br>
- With a total of 937K EVs sold, two- and four-wheelers show significant year-on-year growth, driven by top manufacturers like Ather, Ola Electric, and Tata Motors. Seasonal trends and regional contributions underscore opportunities for targeted marketing strategies.
+Sales Performance:
+<br>
+With a total of 937K EVs sold, two- and four-wheelers show significant year-on-year growth, driven by top manufacturers like Ather, Ola Electric, and Tata Motors. Seasonal trends and regional contributions underscore opportunities for targeted marketing strategies.
 <br>
 <br>
-2.	EV Stations Dashboard:
-   <br>
+EV Stations Dashboard:
+<br>
 Analyzed 837 charging stations across key states. Maharashtra, Delhi, and Tamil Nadu lead in infrastructure, while regions like Punjab show low penetration, signaling the need for strategic infrastructure expansion.
 <br>
 <br>
-3.	Incentives Impact:
-4.	<br>
- Government incentives capped at 40% are pivotal in driving EV penetration. States like Himachal Pradesh and Assam have the highest incentive utilization, correlating with noticeable adoption growth.
+Incentives Impact:
+<br>
+Government incentives capped at 40% are pivotal in driving EV penetration. States like Himachal Pradesh and Assam have the highest incentive utilization, correlating with noticeable adoption growth.
 
 
 
