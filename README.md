@@ -120,17 +120,17 @@ The analysis from the Electric Vehicle Market Dashboard Suite reveals critical i
 <br>
 Sales Performance:
 <br>
-With a total of 937K EVs sold, two- and four-wheelers show significant year-on-year growth, driven by top manufacturers like Ather, Ola Electric, and Tata Motors. Seasonal trends and regional contributions underscore opportunities for targeted marketing strategies.
+The Electric Vehicle Sales Dashboard highlights a remarkable performance in 2023, with total sales of ₹245,312M, reflecting an **81.86% growth** over the previous year, and **937K EVs sold**, marking a **40% increase**. Notably, **July 2023** saw sales of ₹19,436M, an **83.62% rise** compared to ₹10,585M in July 2022. Key contributors in 2-wheelers include **Ola Electric, Ampere, Ather, and Hero Electric**, with Ola Electric showing substantial growth. Peak sales months were **March and May**, while **April** experienced a dip. The dashboard’s filters enable detailed analysis by year, brand, category, and month, offering strategic insights for leveraging the growing EV market.
 <br>
 <br>
 EV Stations Dashboard:
 <br>
-Analyzed 837 charging stations across key states. Maharashtra, Delhi, and Tamil Nadu lead in infrastructure, while regions like Punjab show low penetration, signaling the need for strategic infrastructure expansion.
+The EV Stations Dashboard provides a comprehensive view of charging station distribution across India. **Maharashtra** leads with the highest number of stations (**264**), followed by **Tamil Nadu (165)**, **Delhi (179)**, **Karnataka (134)**, and **Kerala**. Notably, **Delhi and Karnataka account for a combined penetration of 67.46% and 32.54%, respectively**, reflecting strong urban adoption. The map highlights a concentration of stations in southern and western regions, with some states showing **negative penetration in EV sales**, indicating opportunities for infrastructure development. The available station locations are well-distributed but suggest room for expansion in underserved areas to balance accessibility.
 <br>
 <br>
 Incentives Impact:
 <br>
-Government incentives capped at 40% are pivotal in driving EV penetration. States like Himachal Pradesh and Assam have the highest incentive utilization, correlating with noticeable adoption growth.
+Himachal Pradesh received the highest capped incentives at **23.96M** INR, followed closely by Puducherry at **23.16M INR**. Mizoram and Punjab received comparatively lower incentives. In EV sales, West Bengal, Himachal Pradesh, Rajasthan, Goa, and Andhra Pradesh were the top-performing states, with sales showing a sharp increase in Q4. Quarterly trends highlight Tata Motors leading with sales exceeding **60B INR** by Q4, followed by Ola Electric and Ather showcasing steady growth. Other manufacturers like TVS and Mahindra also saw upward trends, but at a lower scale.
 
 
 
