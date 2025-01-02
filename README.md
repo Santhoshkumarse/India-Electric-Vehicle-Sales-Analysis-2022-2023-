@@ -116,6 +116,7 @@ Insights and Decision-Making:
 
 ## Conclusion
 The analysis from the Electric Vehicle Market Dashboard Suite reveals critical insights into the EV ecosystem, encompassing sales performance, charging infrastructure, and incentive-driven growth.
+<br>
 Sales Performance:
 <br>
 With a total of 937K EVs sold, two- and four-wheelers show significant year-on-year growth, driven by top manufacturers like Ather, Ola Electric, and Tata Motors. Seasonal trends and regional contributions underscore opportunities for targeted marketing strategies.
